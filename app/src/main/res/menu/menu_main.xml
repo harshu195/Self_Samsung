@@ -1,0 +1,44 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="appsandmaps.temple.edu.self.MainActivity">
+
+
+
+    <item android:id="@+id/action_setting"
+        android:icon="@mipmap/ic_settings_applications_black_24dp"
+        android:title="Settings"
+        app:showAsAction="ifRoom" />
+
+
+    <item android:id="@+id/action_home"
+        android:icon="@mipmap/ic_home_white_24dp"
+        android:title="Settings"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/action_food"
+        android:icon="@mipmap/ic_local_dining_black_24dp"
+        android:title="Settings"
+        app:showAsAction="ifRoom" />
+
+
+    <item android:id="@+id/action_steps"
+        android:icon="@mipmap/ic_data_usage_black_24dp"
+        android:title="Settings"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/action_apps"
+        android:icon="@mipmap/ic_dashboard_black_24dp"
+        android:title="Settings"
+        app:showAsAction="ifRoom" />
+
+
+    <item android:id="@+id/action_scores"
+        android:icon="@mipmap/ic_view_list_black_24dp"
+        android:title="Settings"
+        app:showAsAction="ifRoom" />
+
+
+
+</menu>
